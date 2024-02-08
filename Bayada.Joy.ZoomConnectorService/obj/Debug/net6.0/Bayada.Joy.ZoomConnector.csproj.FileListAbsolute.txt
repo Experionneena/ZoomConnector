@@ -1,0 +1,12 @@
+C:\Users\neena.augustine\source\repos\Bayada.Joy.ZoomConnector\Bayada.Joy.ZoomConnectorService\bin\Debug\net6.0\Bayada.Joy.ZoomConnector.deps.json
+C:\Users\neena.augustine\source\repos\Bayada.Joy.ZoomConnector\Bayada.Joy.ZoomConnectorService\bin\Debug\net6.0\Bayada.Joy.ZoomConnector.dll
+C:\Users\neena.augustine\source\repos\Bayada.Joy.ZoomConnector\Bayada.Joy.ZoomConnectorService\bin\Debug\net6.0\Bayada.Joy.ZoomConnector.pdb
+C:\Users\neena.augustine\source\repos\Bayada.Joy.ZoomConnector\Bayada.Joy.ZoomConnectorService\obj\Debug\net6.0\Bayada.Joy.ZoomConnector.csproj.AssemblyReference.cache
+C:\Users\neena.augustine\source\repos\Bayada.Joy.ZoomConnector\Bayada.Joy.ZoomConnectorService\obj\Debug\net6.0\Bayada.Joy.ZoomConnector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neena.augustine\source\repos\Bayada.Joy.ZoomConnector\Bayada.Joy.ZoomConnectorService\obj\Debug\net6.0\Bayada.Joy.ZoomConnector.AssemblyInfoInputs.cache
+C:\Users\neena.augustine\source\repos\Bayada.Joy.ZoomConnector\Bayada.Joy.ZoomConnectorService\obj\Debug\net6.0\Bayada.Joy.ZoomConnector.AssemblyInfo.cs
+C:\Users\neena.augustine\source\repos\Bayada.Joy.ZoomConnector\Bayada.Joy.ZoomConnectorService\obj\Debug\net6.0\Bayada.Joy.ZoomConnector.csproj.CoreCompileInputs.cache
+C:\Users\neena.augustine\source\repos\Bayada.Joy.ZoomConnector\Bayada.Joy.ZoomConnectorService\obj\Debug\net6.0\Bayada.Joy.ZoomConnector.dll
+C:\Users\neena.augustine\source\repos\Bayada.Joy.ZoomConnector\Bayada.Joy.ZoomConnectorService\obj\Debug\net6.0\refint\Bayada.Joy.ZoomConnector.dll
+C:\Users\neena.augustine\source\repos\Bayada.Joy.ZoomConnector\Bayada.Joy.ZoomConnectorService\obj\Debug\net6.0\Bayada.Joy.ZoomConnector.pdb
+C:\Users\neena.augustine\source\repos\Bayada.Joy.ZoomConnector\Bayada.Joy.ZoomConnectorService\obj\Debug\net6.0\ref\Bayada.Joy.ZoomConnector.dll

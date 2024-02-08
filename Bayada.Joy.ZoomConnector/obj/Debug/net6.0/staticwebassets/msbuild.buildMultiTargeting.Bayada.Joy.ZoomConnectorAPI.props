@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bayada.Joy.ZoomConnectorAPI.props" />
+</Project>

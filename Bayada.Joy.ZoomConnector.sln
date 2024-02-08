@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bayada.Joy.ZoomConnectorAPI", "Bayada.Joy.ZoomConnector\Bayada.Joy.ZoomConnectorAPI.csproj", "{BF73031D-E52A-4739-BE6E-8CE710B5E989}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bayada.Joy.ZoomConnector", "Bayada.Joy.ZoomConnectorService\Bayada.Joy.ZoomConnector.csproj", "{F646D37B-3FDF-4E5B-AC79-3F920D220960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF73031D-E52A-4739-BE6E-8CE710B5E989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF73031D-E52A-4739-BE6E-8CE710B5E989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF73031D-E52A-4739-BE6E-8CE710B5E989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF73031D-E52A-4739-BE6E-8CE710B5E989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F646D37B-3FDF-4E5B-AC79-3F920D220960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F646D37B-3FDF-4E5B-AC79-3F920D220960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F646D37B-3FDF-4E5B-AC79-3F920D220960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F646D37B-3FDF-4E5B-AC79-3F920D220960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FE8C993-C6D7-4D80-8B77-AE0F7D6A19DA}
+	EndGlobalSection
+EndGlobal
